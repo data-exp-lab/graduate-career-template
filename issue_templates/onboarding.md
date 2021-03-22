@@ -3,6 +3,16 @@
 Here you'll find a checklist of things that need to be accomplished when you
 join the group.  As we go, check each one off.
 
+One important thing to note -- this is designed to be a way to get up to speed
+with lots of different technologies you might need to use.  But, you might also
+either have a different thing you'd like to use!  Maybe you're super into vim
+or emacs or sublimetext or something.  **You can use those things**!  This is
+just a set of ideas.
+
+If you're comfortable doing something a different way, and you think you've
+gotten the "spirit" of it, check it off!  Don't stay beholden to this if you
+don't need to.
+
 ## Discussions
 
  - [ ] Talk through the [onboarding document](https://dxl.ncsa.illinois.edu/docs/checklist.html) with Matt
