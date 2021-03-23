@@ -16,10 +16,10 @@ Conversations can take place here, so that there is a record.  This repository w
 
 ## Using this repository
 
-You may find this repository much easier to interact with using the [hub](https://hub.github.com/) command, which is available via conda: `conda install hub` .  You can use this to create issues, for instance:
+You may find this repository much easier to interact with using the [gh](https://cli.github.com/) command.  You can use this to create issues, for instance:
 
 ```bash
-hub issue create --file issue_templates/write_paper.md --edit
+gh issue create -F issue_templates/write_paper.md -w
 ```
 
 This would read the template, open an editor for you to modify the text, and create the issue.
