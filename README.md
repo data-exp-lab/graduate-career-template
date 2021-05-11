@@ -23,3 +23,11 @@ gh issue create -F issue_templates/write_paper.md -w
 ```
 
 This would read the template, open an editor for you to modify the text, and create the issue.
+
+## Initializing the Repository
+
+When this repo is created, Matt will run this command to start the checklist process!
+
+```bash
+gh issue create -F issue_templates/onboarding.md -t "Onboarding Checklist"
+```
